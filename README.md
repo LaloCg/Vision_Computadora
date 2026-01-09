@@ -32,11 +32,4 @@ Es el archivo ejecutable que integra los módulos anteriores.
 
 ---
 
-## 🛠️ Requisitos de Software
-
-Para ejecutar este proyecto en tu computadora, necesitas instalar **Python** y las siguientes librerías:
-
-```bash
-pip install opencv-python
-pip install mediapipe
-pip install pyserial
+Eduardo Cano García | Universidad Autónoma Chapingo
